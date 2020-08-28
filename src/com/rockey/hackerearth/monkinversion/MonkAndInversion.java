@@ -1,4 +1,4 @@
-package com.rockey.hackerearth;
+package com.rockey.hackerearth.monkinversion;
 
 import java.util.Scanner;
 
