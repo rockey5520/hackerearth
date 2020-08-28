@@ -8,22 +8,22 @@
 
 # Code Monk
 
-|     Challenge     | Points |                           Solution                           |
-| :---------------: | :----: | :----------------------------------------------------------: |
-| Monk and Rotation |   20   | [Solution.java](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/MonkAndRotation.java) |
-|                   |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/datastructures/arrays/dynamicarray/Solution.java) |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
-|                   |        |                                                              |
+|     Challenge      | Points |                           Solution                           |
+| :----------------: | :----: | :----------------------------------------------------------: |
+| Monk and Rotation  |   20   | [Solution.java](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/MonkAndRotation.java) |
+| Monk and Inversion |   10   | [Solution.java](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/MonkAndInversion.java) |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
+|                    |        |                                                              |
 
 # Interview Preparation Kit
 
