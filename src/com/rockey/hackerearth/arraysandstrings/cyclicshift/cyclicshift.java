@@ -1,4 +1,4 @@
-package com.rockey.hackerearth.cyclicshift;
+package com.rockey.hackerearth.arraysandstrings.cyclicshift;
 
 import java.util.Scanner;
 

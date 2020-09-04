@@ -1,4 +1,4 @@
-package com.rockey.hackerearth.minimumandxoror;
+package com.rockey.hackerearth.arraysandstrings.minimumandxoror;
 
 import static java.lang.Integer.parseInt;
 import static java.util.Arrays.sort;

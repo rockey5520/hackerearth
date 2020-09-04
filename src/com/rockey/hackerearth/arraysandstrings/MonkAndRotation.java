@@ -1,4 +1,4 @@
-package com.rockey.hackerearth;
+package com.rockey.hackerearth.arraysandstrings;
 
 import static java.lang.System.in;
 
