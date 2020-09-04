@@ -1,4 +1,0 @@
-3
-id,paydate,quantity,price,currency,description
-1,03-04-2020,1,19.99,EUR,Inv-937593 Running Shoes
-1,03-04-2020,1,19.99,EUR,Inv-937593 Running Shoes
