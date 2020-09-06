@@ -21,6 +21,6 @@
 |                          Challenge                           | Points |                           Solution                           |
 | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
 | [Monk and Nice Strings](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/sorting/monkandnicestrings/Readme.md) |   20   | [Solution.java](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/sorting/monkandnicestrings/Solution.java) |
-|                                                              |        |                                                              |
+| [Monk and Suffix Sort](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/sorting/monkandsuffixsort/Readme.md) |   20   | [Solution.java](https://github.com/rockey5520/hackerearth/blob/master/src/com/rockey/hackerearth/sorting/monkandsuffixsort/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
